@@ -1,0 +1,5 @@
+main: me.joeygallegos.minelands.Core
+name: MinelandsAPI
+
+version: 0.1
+description: Minelands Server API
